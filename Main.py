@@ -22,7 +22,7 @@ class Stack:
 
     def pop(self):
         if not self.is_empty():
-            seld.items.pop()
+            self.items.pop()
 
     def status(self):
         for elements in self.items:
